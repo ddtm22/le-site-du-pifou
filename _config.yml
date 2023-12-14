@@ -4,3 +4,4 @@ collections:
 plugins:
   - jekyll-feed
 theme: mimoza
+baseurl: /le-site-du-pifou
